@@ -6,11 +6,13 @@
 Welcome to test-github's documentation!
 =======================================
 
+Also here some trash.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
+Here i would like to change something.
 
 Indices and tables
 ==================
@@ -18,3 +20,19 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+Here some trash 2.
+
+Graphic tables
+--------------
+.. table:: YOUR TABLE
+
+   +-----------+--------+------+---------------------------------+-------+--------+
+   | BitNumber | Event  | Size | ParamName                       | char1 | char2  |
+   +===========+========+======+=================================+=======+========+
+   | 0         | EVENT1 | 1    | Your param name                 |       | x      |
+   +-----------+--------+------+---------------------------------+-------+--------+
+   | 1         | EVENT2 | 1    | Your param name                 |       | x      |
+   +-----------+--------+------+---------------------------------+-------+--------+
+   | 2         | EVENT3 | 1    | Your param name                 |       |        |
+   +-----------+--------+------+---------------------------------+-------+--------+
