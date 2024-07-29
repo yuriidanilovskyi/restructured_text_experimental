@@ -23,22 +23,16 @@ Indices and tables
 
 Here some trash 2.
 
-
-.. uml::
-   :caption: Caption with **bold** and *italic*
-   :width: 50mm
-
-   Foo <|-- Bar
-
-
 Graphic tables
 --------------
-.. table:: Your table
+.. table:: YOUR TABLE
+
    +-----------+--------+------+---------------------------------+-------+--------+
-   | BitNumber | Event  | Size |      Name                       | HZ111 | HX22   |
+   | BitNumber | Event  | Size | ParamName                       | char1 | char2  |
    +===========+========+======+=================================+=======+========+
-   | 0         | BLA    | 1    | devisdf-blasdfsd                |       | x      |
+   | 0         | EVENT1 | 1    | Your param name                 |       | x      |
    +-----------+--------+------+---------------------------------+-------+--------+
-   | 1         | BLA2   | 1    | sdfsdfsdfsdfsdfsdfsdf           |       | x      |
+   | 1         | EVENT2 | 1    | Your param name                 |       | x      |
    +-----------+--------+------+---------------------------------+-------+--------+
-   | 2         | BLA23  | 1    | sdfsdfsdfsdfsdfsdfsdfsdfsd      |       |        |
+   | 2         | EVENT3 | 1    | Your param name                 |       |        |
+   +-----------+--------+------+---------------------------------+-------+--------+
