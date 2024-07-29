@@ -22,3 +22,10 @@ Indices and tables
 * :ref:`search`
 
 Here some trash 2.
+
+
+.. uml::
+   :caption: Caption with **bold** and *italic*
+   :width: 50mm
+
+   Foo <|-- Bar
