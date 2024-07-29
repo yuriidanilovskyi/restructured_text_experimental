@@ -6,6 +6,8 @@
 Welcome to test-github's documentation!
 =======================================
 
+Also here some trash.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
@@ -18,3 +20,5 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+Here some trash 2.
